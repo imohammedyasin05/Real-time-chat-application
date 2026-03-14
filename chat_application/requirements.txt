@@ -1,0 +1,15 @@
+# Real-Time Chat Application
+# Python dependencies
+
+# No external packages required - uses only Python standard library:
+# - socket (built-in)
+# - threading (built-in)
+# - tkinter (built-in with Python)
+# - sqlite3 (built-in)
+# - datetime (built-in)
+
+# Optional: For better type hints and development
+# typing-extensions>=4.0.0
+
+# Note: This project uses only Python standard library modules.
+# No pip install needed for basic functionality.
